@@ -135,11 +135,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Juggling_Algo.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="ming.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ming.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Juggling_Algo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

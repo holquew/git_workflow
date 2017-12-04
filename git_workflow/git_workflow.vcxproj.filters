@@ -18,11 +18,16 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+
+    <ClCompile Include="Juggling_Algo.c">
     <ClCompile Include="ming.c">
+
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+
+    <ClInclude Include="Juggling_Algo.h">
     <ClInclude Include="ming.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
